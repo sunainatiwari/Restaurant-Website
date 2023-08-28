@@ -1,15 +1,27 @@
 * {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(110, 237, 75);
+}
+
+body {
+    width: 80%;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 7px black;
+    margin: auto;
+}
+
+.rest-body {
+    /* background-color: rgba(126, 124, 124, 0.708); */
+    background-color: rgb(203, 222, 237);
+    /* color: white; */
 }
 
 header {
     display: flex;
     justify-content: space-around;
     padding: 10px;
-    background-color: rgb(110, 237, 75);
-    /* width: 100%; */
+    /* background-color: rgb(110, 237, 75); */
+    width: 100%;
 
 }
 
@@ -46,7 +58,7 @@ main {
     display: flex;
     height: 100%;
     width: 100%;
-    background-color: rgb(110, 237, 75);
+    /* background-color: rgb(110, 237, 75); */
 }
 
 .main-text {
