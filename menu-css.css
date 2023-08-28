@@ -1,0 +1,58 @@
+.menu-pizza {
+    box-sizing: border-box;
+    box-shadow: 3px 3px 5px grey;
+
+    /* box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px transparent gray; */
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(247, 58, 58); */
+    font-size: 30px;
+    margin-top: 5vh;
+}
+
+#pizzahead {
+    background-color: yellow;
+    font-size: 32px;
+}
+
+#Sideshead {
+    font-size: 32px;
+    background-color: yellow;
+}
+
+#Drinkshead {
+    background-color: yellow;
+    font-size: 32px;
+}
+
+.dish-desc {
+    font-size: 18px;
+}
+
+.combo-meals {
+    /* background-color: red; */
+    height: 50vh;
+    width: 45%;
+    /* margin-left: 20%; */
+    font-size: 30px;
+}
+
+#Combo {
+    background-color: yellow;
+    font-size: 32px;
+}
+
+.main2 {
+    display: flex;
+    height: 100%;
+    margin-left: 20vh;
+    /* max-width: 100%; */
+    /* background-color: red; */
+}
+
+.image2 {
+    background-color: red;
+    width: 40%;
+    float: right;
+}
